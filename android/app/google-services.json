@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267795451135",
+    "project_id": "harnishsalon",
+    "storage_bucket": "harnishsalon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267795451135:android:39c88c0d302d073c07d0ca",
+        "android_client_info": {
+          "package_name": "com.example.harnishsalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267795451135-hl8eg33bk1at5ig7r71gbp491a4e6d7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUCsoTX0qd2rZlSV3_tVwOdvk11EUhAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267795451135-hl8eg33bk1at5ig7r71gbp491a4e6d7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
