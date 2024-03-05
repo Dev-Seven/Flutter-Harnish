@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+font-family: 'Poppins', sans-serif;
+font-size: 15px;
+font-weight:400;
+}
+
+
+.navbar-vertical .navbar-brand-img, .navbar-vertical .navbar-brand > img{
+ 	margin-top: -30px; 
+ 	max-height: 7rem;
+}
+.error{
+	color: #D8000C;
+	font-weight:unset !important;
+}
+.form-control.error{
+	color: #495057;
+}
+.bg-gradient-default {
+    background: linear-gradient(87deg, #5e72e4 0, #5e72e4 100%) !important;
+} 
+
+.h4, h4 {
+    font-size: 1rem;
+}
+
+
+@media screen and (max-width: 1320px){
+.table-scroll {
+    overflow-x: scroll;
+}
+}
+@media only screen and (min-width:320px) and (max-width: 768px){
+.content-header h1 {
+    font-size: 1.5rem; margin-bottom: 15px;
+}
+}
+
+.btn-new{width:100%;}
+.cl-action{display: inline-block;min-width: 113px;}
+.table thead th{border-bottom-width: 0;border-top-width: 0;}
+
+@media only screen and (min-width:320px) and (max-width: 768px){
+#form_type_dropdown{ margin:10px 0;}
+#form_rate_dropdown	{ margin:0 0 10px 0;}
+}
+
+.form-control.custom-select.error{
+  color: #495057;
+}
